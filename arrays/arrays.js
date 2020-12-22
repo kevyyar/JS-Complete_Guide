@@ -66,3 +66,13 @@ students.splice(2, 0, "jonny"); // add an item inside the array
 console.log(students);
 students.splice(3, 1);
 console.log(students);
+
+// Nested Arrays
+const colors = [
+  ['red', 'crimson'],
+  ['orange', 'dark orange'],
+  ['yellow', 'golden rod'],
+  ['blue', 'lightblue'],
+]
+
+console.log(colors[0]);
