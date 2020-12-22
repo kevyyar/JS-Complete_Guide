@@ -15,6 +15,7 @@ console.log(msg.toUpperCase()); // outputs string to UPPERCASE
 let color = "   black  ".trim(); // removes white space in string
 console.log(color);
 
+
 // String Methods w/ Arguments
 let tvShow = "catdog";
 console.log(tvShow.indexOf("cat")); // outputs position of the word
